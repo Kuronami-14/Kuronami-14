@@ -5,6 +5,7 @@
   - Robotics & Automation
 
 - 🌱 I’m currently learning ...
+  - How to use github
   - Fontend Development
  
 - My best skills are in ..
